@@ -21,9 +21,10 @@
     
 - Screenshot of AFL running (with triggered crash)
     
-    ![截圖 2023-05-01 下午8.15.12.png](ST-Lab07%20ac0c9821e84c477cbcb4c1b0e7968fab/%25E6%2588%25AA%25E5%259C%2596_2023-05-01_%25E4%25B8%258B%25E5%258D%25888.15.12.png)
+    <img width="706" alt="截圖 2023-05-01 下午8 15 12" src="https://user-images.githubusercontent.com/104348186/235620731-9ad25e94-257a-4a4f-918e-1fd8355968fb.png">
+
     
 
 - Screenshot of crash detail (with ASAN error report)
     
-    ![截圖 2023-05-01 下午8.15.59.png](ST-Lab07%20ac0c9821e84c477cbcb4c1b0e7968fab/%25E6%2588%25AA%25E5%259C%2596_2023-05-01_%25E4%25B8%258B%25E5%258D%25888.15.59.png)
+    <img width="1257" alt="截圖 2023-05-01 下午8 15 59" src="https://user-images.githubusercontent.com/104348186/235620768-ee688bdd-44e2-4b31-8297-b077808acb1b.png">
